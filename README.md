@@ -1,4 +1,5 @@
 # Kimia Farma's Semester 1 2022 Sales
+Klik link berikut untuk melihat dashboard: https://lookerstudio.google.com/s/l07cXxYnQOU
 Proses end to end pembuatan sales dashboard dilakukan dalam beberapa langkah, diantaranya:
 - Perlu diketahui data source yang diberikan berupa excel dengan beberapa sheet, maka dari itu
 setiap sheet perlu disave sebagai csv. Setiap csv sudah tertera di folder dataset.
